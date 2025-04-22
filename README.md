@@ -1,2 +1,2 @@
 # SQL_Exemplos
- Atividades feitas com sql
+ Atividades feitas com sql para EBAC
